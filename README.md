@@ -14,14 +14,15 @@
 ## Installation
 
 The code should run without issues using Python versions 3.*.
+
 Libraries neccessary to run the code:
-	-pandas
-	-sqlalchem
-	-numpy
-	-re
-	-nltk
-	-sklearn
-	-pickle
+- pandas
+- sqlalchem
+- numpy
+- re
+- nltk
+- sklearn
+- pickle
 
 
 ## Running Instructions
